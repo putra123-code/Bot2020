@@ -1,15 +1,15 @@
-# A187 ID
-BOT WHATSAPP HP Aris187 ID
+# FITUR TERBARU
+BOT WHATSAPP HP Android
 
 ### Alat dan Bahan
 Siapin alat dan bahannya.
 ```bash
-> niat
+
 > 2 handphone (1 buat jalanin sc, 1 buat scan qr)
-> internet yang memadai, kalo lu gapunya kuota pake kuota kemendikbud ae
+> internet yang memadai, kalo lu gapunya kuota beli lah, wkwkw :)
 > aplikasi whatsapp
 > aplikasi termux
-> kopi
+
 ```
 
 ### Cara Installnya
@@ -17,7 +17,7 @@ Sebelum lu jalanin sc nya install dulu lah.
 ```bash
 > kalo lu belum punya apk termux, download di playstore
 > masuk ke apk termux lalu ketik dibawah ini!
-> git clone https://github.com/aris187id/whatsapp-bot
+> git clone https://github.com/putra123-code/Bot2020.git
 > cd whatsapp-bot
 > bash install.sh
 > node index.js
@@ -26,7 +26,7 @@ Sebelum lu jalanin sc nya install dulu lah.
 
 ## Features
 
-| A187 ID BOT       |                Feature           |
+|     BOT       |                Feature           |
 | :-----------: | :--------------------------------: |
 |       ✅       | Sticker Creator                  |
 |       ✅       | Magernulis                       |
@@ -44,8 +44,4 @@ Sebelum lu jalanin sc nya install dulu lah.
 |       ✅       | Say                              |
 |       ✅       | Info                             |
 |       ✅       | Donate                           |
-
-## Special Thanks to
-* [`termux-whatsapp-bot`](https://github.com/fdciabdul/termux-whatsapp-bot)
-
 
